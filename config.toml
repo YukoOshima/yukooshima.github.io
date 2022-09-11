@@ -1,4 +1,4 @@
-baseURL = "yukooshima.github.io"
+baseURL = ""
 languageCode = "zh-CN"
 title = "前端念碎碎"
 theme = "maupassant"
